@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt_br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>ChatBox with GPT</title>
+</head>
+<body>
+    <div class="question">
+        <div class="header">
+            <p>Perguntas e respostas - ChatGPT</p>
+        </div>
+        <p id="status"></p>
+        <div id="historic">
+            <!-- Aqui vai o chat -->
+        </div>
+        <div class="footer">
+            <input type="text" placeholder="Pergunte aqui..." id="message">
+            <button id="btn" onclick="sendMessage()">Enviar</button>
+        </div>
+    </div>
+</body>
+<script src="script.js"></script>
+</html>
