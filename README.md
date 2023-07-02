@@ -25,7 +25,7 @@ This project is a ChatBox application that utilizes the ChatGPT API. It allows u
 
 ## Project Screenshot
 
-
+![Project Screenshot](https://github.com/marco-almeida701/ChatBox-GPT/assets/126623187/8ba5c6c6-b9ed-4a93-990b-d3d98460904d)
 
 ## Final Thoughts
 
