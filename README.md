@@ -31,4 +31,4 @@ This project is a ChatBox application that utilizes the ChatGPT API. It allows u
 
 This project showcases the integration of the ChatGPT API to create a ChatBox application. By interacting with the ChatGPT model, users can have dynamic and engaging conversations. Feel free to explore the source code and customize it according to your needs. Enjoy the ChatBox and experience the capabilities of AI-powered chat!
 
-**Note: This project is for educational purposes only and does not include advanced features such as user authentication or persistent data storage.**
+### **Note: This project is for educational purposes only and does not include advanced features such as user authentication or persistent data storage.**
